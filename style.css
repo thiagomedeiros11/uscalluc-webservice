@@ -1,0 +1,51 @@
+/* Importando a fonte utilizada */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Estilo do body */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(201, 201, 201) none repeat scroll 0% 0%;
+}
+
+/* Estilo do nav */
+.navigator{
+    background: rgb(105, 105, 105) none repeat scroll 0% 0%;
+    margin: -8px;
+}
+
+/* Estilo dos botões button, submit e reset */
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    width:150;
+    height:50px;
+    border-radius:20px;
+  }
+
+  /* Estilo das tabelas */
+  td, th {
+    padding: 10px;
+    text-align: left;
+    border: 2px solid;
+    border-radius:20px;
+  }
+  table {
+    width: 100%;
+  }
+
+  /* Alinhamento dos inputs das divs */
+  .form-container span.input-label{
+    display: inline-block;
+    width: 300px;
+    text-align: right;
+    padding-right: 10px;
+  }
+
+/* Esconde o select html que é enviado para o backend */
+  .invisible{
+    display: none;
+  }

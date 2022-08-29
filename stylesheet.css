@@ -1,0 +1,5 @@
+/* display none na div pai para esconder as outras divs */
+#pai div{
+    display: none;
+}
+
