@@ -1,6 +1,6 @@
 # Uscalluc Webservice
 
-![Preview-Screens](https://github.com/thiagomedeiros11/uscalluc-webservice/blob/main/logo.png)
+![Preview-Screens](https://github.com/thiagomedeiros11/uscalluc-webservice/blob/main/preview.png)
 
 
 ## Description
