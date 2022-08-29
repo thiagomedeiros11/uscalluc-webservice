@@ -24,9 +24,7 @@ In the tests, Apache Server version used was: Apache/2.4.54 (Unix).
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/steniowagner/mindCast
-
-$ cd mindCast
+$ git clone https://github.com/thiagomedeiros11/uscalluc-webservice.git
 
 $ mv uscalluc-webservice /your-apache-directory
 ```
