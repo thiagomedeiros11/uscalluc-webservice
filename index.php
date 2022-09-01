@@ -10,7 +10,7 @@ require_once('union.php');
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Integrador V1.1 | USCallUc</title>
+    <title>Integrador V2.0 | USCallUc</title>
     <script src='jquery-2.1.4.min.js'></script>
     <script src='javascript.js'></script>
     <link rel='stylesheet' href='stylesheet.css'>
@@ -26,7 +26,7 @@ require_once('union.php');
     <table>
         <th>
             <div id="navegador">
-                <h1>Integrador V1.1 | USCallUc</h1>
+                <h1>Integrador V2.0 | USCallUc</h1>
             </div>
 
             <div>
