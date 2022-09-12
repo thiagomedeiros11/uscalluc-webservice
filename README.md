@@ -1,11 +1,11 @@
-# Uscalluc Webservice
+# USCall UC PBX IP Webservice
 
 ![Preview-Screens](https://github.com/thiagomedeiros11/uscalluc-webservice/blob/main/preview.png)
 
 
 ## Description
 
-A PHP Webservice used for integration and communication between different applications with the UScall UC software.
+A PHP Webservice used for integration and communication between different applications with the UScall UC PBX IP.
 
 Communication is carried out through the XML/HTTPS format using the SOAP protocol.
 
@@ -40,4 +40,4 @@ Any questions I am available by email.
 
 Email me: thiago.wav1@gmail.com
 
-Visit the website for more information about USCall PBX: https://www.uniontelecom.com.br/
+Visit the website for more information about USCall UC PBX IP: https://www.uniontelecom.com.br/
